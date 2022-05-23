@@ -1,0 +1,25 @@
+.stext {
+  font-family: 'Press Start 2P', cursive;
+  color: #20c997
+}
+
+body {
+  font-family: 'Press Start 2P', cursive;
+}
+
+hr {
+  display: flex;
+  align-items: center;
+  text-align: center;
+  height: 5px !important;
+  color: #20c997
+}
+
+.pkg {
+  background-color: black;
+  transform: translate(0px, 30px)
+}
+
+img {
+  width: 200px;
+}
